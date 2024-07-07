@@ -17,18 +17,12 @@
 - 🤔 I’m looking for a job
 
 
-<!-- LAST_COMMIT -->
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerMasum&show_icons=true&locale=en&layout=compact&langs_count=10" alt="saiful" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerMasum&" alt="saiful" /></p>
-
-
-
-### Last Commit
-![GitHub last commit](https://img.shields.io/github/last-commit/saifulaija/fullstack-portfolio)
 
 
 
@@ -68,6 +62,13 @@
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerMasum&" alt="saiful" /></p>
+
+
+
+### Last Commit
+![GitHub last commit](https://img.shields.io/github/last-commit/saifulaija/fullstack-portfolio)
 
 
 
