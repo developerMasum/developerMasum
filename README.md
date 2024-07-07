@@ -16,6 +16,22 @@
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 - 🤔 I’m looking for a job
 
+
+<!-- LAST_COMMIT -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifulaija&show_icons=true&locale=en&layout=compact&langs_count=10" alt="saiful" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulaija&" alt="saiful" /></p>
+
+
+
+### Last Commit
+![GitHub last commit](https://img.shields.io/github/last-commit/saifulaija/fullstack-portfolio)
+
+
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools:</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
