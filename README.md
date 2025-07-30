@@ -22,16 +22,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=developerMasum&theme=dark&hide_border=false)<br/>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=developerMasum&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools:</h2>
 
