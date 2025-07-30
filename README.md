@@ -65,8 +65,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerMasum&show_icons=true&locale=en&layout=compact&langs_count=10" alt="saiful" /></p>
 
 
-### Last Commit
-![GitHub last commit](https://img.shields.io/github/last-commit/saifulaija/fullstack-portfolio)
+### 🕒 Last Commit
+![GitHub last commit](https://img.shields.io/github/last-commit/developerMasum/fullstack-portfolio?style=flat-square)
+
 
 
 
