@@ -20,7 +20,7 @@
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=developerMasum&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=developerMasum&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 
 
 
